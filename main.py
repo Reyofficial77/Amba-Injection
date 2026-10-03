@@ -11,7 +11,7 @@ IMAGE_PATH = ASSETS / "ambatukam.png"
 AUDIO_PATH = ASSETS / "ambatukam.mp3"
 
 running = True
-MAX_WINDOWS = 22
+MAX_WINDOWS = 100
 SPAWN_INTERVAL = 700
 
 root = tk.Tk()
